@@ -2,7 +2,7 @@
 
 This is a repository that contains all assets (`.blend`, .`xcf` files..) for my Endless Sky plugin: [Cromha-Expansion-plugin](https://github.com/OcelotWalrus/Cromha-Expansion-plugin).
 
-For adding your assets, make sure you use the following pattern tha you can also find [here](https://github.com/OcelotWalrus/Cromha-Expansion-plugin/wiki/Contributor-Guide#coding-tips)
+For adding your assets, make sure you use the following pattern that you can also find [here](https://github.com/OcelotWalrus/Cromha-Expansion-plugin/wiki/Contributor-Guide#coding-tips)
 
 ```
   source/
